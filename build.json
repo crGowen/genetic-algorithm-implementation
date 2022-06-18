@@ -1,0 +1,14 @@
+{
+    "cppDirs": [
+        "src"
+    ],
+    "flags": [
+        "EHsc",
+        "W1"
+    ],
+    "include": "",
+    "lib": "",
+    "dll": "",
+    "hFile": "src/genetic-alg.h",
+    "output": "output/genetic-alg.dll"
+}

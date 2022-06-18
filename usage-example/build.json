@@ -1,0 +1,14 @@
+{
+    "cppDirs": [
+        "."
+    ],
+    "flags": [
+        "EHsc",
+        "W1"
+    ],
+    "include": "../output",
+    "lib": "../output",
+    "dll": "../output",
+    "hFile": "",
+    "output": "../output/example.exe"
+}
